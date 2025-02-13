@@ -9,6 +9,6 @@ npm install
 npm run dev
 ```
 
-[El proyecto se encuentra deployado en el URL =>](https://isning.vercel.app/)
+[https://github.com/ErickRuiz97/ISNING](https://isning.vercel.app/)
 
 
