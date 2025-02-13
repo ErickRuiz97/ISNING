@@ -9,6 +9,8 @@ npm install
 npm run dev
 ```
 
-[https://github.com/ErickRuiz97/ISNING](https://isning.vercel.app/)
+### Url del Proyecto
+
+[https://isning.vercel.app/](https://isning.vercel.app/)
 
 
