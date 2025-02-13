@@ -33,7 +33,7 @@ const imageUrl = 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?f
   max-width: 1200px;
   height: 400px;
   object-fit: cover;
-  border-radius: 15px;
+  border-radius: 30px;
 }
 
 .overlay-text {
@@ -67,7 +67,7 @@ const imageUrl = 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?f
   font-weight: bold;
   border: none;
   cursor: pointer;
-  border-radius: 15px;
+  border-radius: 30px;
   transition: background-color 0.3s, color 0.3s;
 }
 

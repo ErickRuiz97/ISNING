@@ -40,7 +40,7 @@ defineProps({
 }
 .custom-card {
   width: 350px;
-  border-radius: 15px;
+  border-radius: 30px;
   overflow: hidden;
   background: white;
   padding-bottom: 20px;
@@ -89,7 +89,7 @@ defineProps({
   justify-content: center;
   width: 90%;
   margin: auto;
-  border-radius: 25px;
+  border-radius: 30px;
   font-weight: bold;
   background-color: #f8f9fa;
   padding: 10px 20px;

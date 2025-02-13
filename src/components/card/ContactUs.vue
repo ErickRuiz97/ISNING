@@ -18,7 +18,7 @@
 .contact-us-image {
   width: 100%;
   height: 350px;
-  border-radius: 20px;
+  border-radius: 30px;
 }
 
 .overlay {
@@ -28,7 +28,7 @@
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 20px;
+  border-radius: 30px;
 }
 
 .contact-us-text {

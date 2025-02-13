@@ -121,7 +121,7 @@ defineProps({
   width: 55%;
   height: 200px;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -129,7 +129,7 @@ defineProps({
   width: 32%;
   height: 200px;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 

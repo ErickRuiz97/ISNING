@@ -82,7 +82,7 @@
 img {
   width: 100%;
   margin-bottom: 15px;
-  border-radius: 15px;
+  border-radius: 30px;
 }
 
 .col-md-4 {

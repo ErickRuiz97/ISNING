@@ -38,7 +38,7 @@ const playVideo = () => {
   align-items: center;
   background: white;
   padding: 20px;
-  border-radius: 15px;
+  border-radius: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 600px;
 }

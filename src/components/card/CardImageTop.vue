@@ -21,7 +21,7 @@ defineProps({
 .custom-card {
   position: relative;
   width: 320px;
-  border-radius: 15px;
+  border-radius: 30px;
   height: auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -30,7 +30,7 @@ defineProps({
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 15px;
+  border-radius: 30px;
 }
 
 .card-content {

@@ -19,7 +19,7 @@ const imageUrls = {
   playIcon: "https://cdn-icons-png.flaticon.com/512/0/375.png",
   blogImage1: "https://bsrengineering.com/wp-content/uploads/2021/09/DSC_8658.jpg",
   blogImage2: "https://previews.123rf.com/images/traviswolfe/traviswolfe1612/traviswolfe161200062/68783333-vegetaci%C3%B3n-exuberante-selva-cerca-de-la-piscina-en-el-sol-de-la-ma%C3%B1ana-con-los-rayos-c%C3%A1lidos-de.jpg",
-  blogImage3: "https://thumbs.dreamstime.com/b/puesta-de-sol-junto-la-piscina-un-momento-m%C3%A1gico-reflejado-en-una-cristalina-decoraci%C3%B3n-fondo-escritorio-portada-del-folleto-325561924.jpg"
+  blogImage3: "https://img.freepik.com/fotos-premium/piscina-vista-al-mar-sol-brillando-horizonte_865967-51203.jpg"
 };
 
 const serviceDetails = {
@@ -42,6 +42,10 @@ const serviceDetails = {
     </div>
     <h1 class="display-5 title-with-divider">Our Services</h1>
     <div class="pencil-divider"></div>
+    <p class="description">
+      Whether you're looking for expert advice, project inspiration, or updates on our recent work, you'll find it all here.
+      Explore our articles to stay informed and inspired!
+    </p>
     <div class="card-container">
       <CardServices :imageSrc="imageUrls.piscinaDescanso" title="Outdoor Living Spaces"
         :details="serviceDetails.outdoorLiving" :iconSrc="imageUrls.playIcon" />
